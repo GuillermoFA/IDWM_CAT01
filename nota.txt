@@ -1,0 +1,31 @@
+1. Utilizando Visual Studio Code u otro editor de código de tu elección, crea un nuevo proyecto web.
+Puedes utilizar Bootstrap o Tailwind CSS según tus preferencias. Si utilizas un framework debes
+incluir mediante CDN el framework NO mediante NPM.
+
+2. Crea una página web que muestre una lista de productos. La página debe incluir al menos los
+siguientes elementos:
+
+3. Un encabezado con el título "Lista de Productos", sus datos personales como: nombres, apellidos,
+rut o DNI, asignatura, fecha.
+
+4. Una lista de al menos 10 productos cada producto puede estar encerrado en un card o algún
+componente, cada uno con una imagen del producto, nombre, precio y una breve descripción
+(mínimo 200 caracteres).
+
+5. Agrega un botón "Ver Detalles" debajo de cada producto.
+
+6. Utiliza CSS para dar formato a la página y hacer que se vea atractiva. Asegúrate de incluir al menos:
+
+a. Estilos para el encabezado.
+
+b. Estilos para la lista de productos.
+
+c. Estilos para los botones "Ver Detalles".
+
+d. Estilos para resaltar los productos al pasar el cursor sobre ellos.
+
+7. Asegúrate de que la página sea completamente receptiva y se vea bien en diferentes tamaños de
+pantalla (puedes utilizar media query, grillas, o flex para esto).
+
+8. Agrega comentarios en tu código HTML y CSS para explicar brevemente cada sección o estilo
+importante
